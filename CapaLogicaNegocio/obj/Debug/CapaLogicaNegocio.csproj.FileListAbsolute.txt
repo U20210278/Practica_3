@@ -1,0 +1,20 @@
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb

@@ -1,0 +1,15 @@
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\doubl\Documents\C# 2023\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\bin\Debug\CapaEntidad.dll
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\china\source\repos\PracticaCapas\PracticaCapas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
